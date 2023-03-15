@@ -1,0 +1,19 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãáâÿÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "brian".(Çùó
+V	java:S125"<This block of commented-out lines of code should be removed.(ªæÊ‡ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(éğÀÄ
+@
+java:S1481"*Remove this unused "brian" local variable.(Çùó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥î†üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–ó×œ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çü€ç
+Q	java:S125$"<This block of commented-out lines of code should be removed.(¢»†³
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(•ÅµÜ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¿…àÉüÿÿÿÿ
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(¡­ù8ÊØ‡ÇÆ0
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ÒÄ¼Ö
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(òØºªûÿÿÿÿ8ŒÕ‰ÇÆ0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ö±»‹8…üŠÇÆ0
